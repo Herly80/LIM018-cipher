@@ -22,10 +22,10 @@ Esta app fue diseñada para aquellos trabajadores de oficina que quieran comunic
 - Javascript.
 
 ## Prototipo en Figma.
-![] (C:\Users\HP\Desktop\cipher\LIM018-cipher\Figma cipher.png)
+<img src="https://C:\Users\HP\Desktop\cipher\LIM018-cipher\Figma cipher.png">
 
 ## Version final desde el navegador.
-![] (LIM018-cipher\Version final cipher.png)
+<img src="https://LIM018-cipher\Version final cipher.png">
 
 ## Instrucciones de uso.
 ## Para cifrar:
