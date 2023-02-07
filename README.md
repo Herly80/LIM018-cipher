@@ -1,6 +1,5 @@
 #Cifrado Cesar.
 
-------------
 
 El "Cifrado Cesár" es una ap de escritorio que nos permite cifrar y descifrar un mensaje con un número de desplazamiento a eleccion del usuario.
 
