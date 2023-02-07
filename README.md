@@ -42,7 +42,7 @@ Esta app fue diseñada para aquellos trabajadores de oficina que quieran comunic
 - recibe tu mensaje decodificado.
 
 ## Enlace para desplegar.
-[cifrado cesar](httphttps://herly80.github.io/LIM018-cipher/src/:// "cifrado cesar"
+[cifrado cesar](https://herly80.github.io/LIM018-cipher/src/)
 
 # Cifrado César
 
@@ -510,3 +510,6 @@ Esta sección está para ayudarte a llevar un control de lo que vas completando.
 * [ ] Cifra/descifra minúsculas
 * [ ] Cifra/descifra _otros_ caracteres (espacios, puntuación, `ñ`, `á`, ...)
 * [ ] Permite usar un `offset` negativo.
+
+
+[def]: httphttps://herly80.github.io/LIM018-cipher/src/://
