@@ -3,7 +3,7 @@ import cipher from './cipher.js';
 let myBotonCifrar = document.getElementById("botonCifrar");
 let myBotonDescifrar = document.getElementById("botonDescifrar");
 let myRange = document.getElementById("rango");
-let myValue = 5;
+let myValue = 10;
 
 myRange.addEventListener("change",(e)=>{
   myValue = e.target.value;
