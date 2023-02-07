@@ -42,7 +42,7 @@ Esta app fue diseñada para aquellos trabajadores de oficina que quieran comunic
 - recibe tu mensaje decodificado.
 
 ## Enlace para desplegar.
-[http://https://herly80.github.io/LIM018-cipher/src/](http://https://herly80.github.io/LIM018-cipher/src/)
+[herly80.github.io/LIM018-cipher/src/](herly80.github.io/LIM018-cipher/src/)
 
 # Cifrado César
 
