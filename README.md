@@ -1,3 +1,49 @@
+#** Cifrado Cesar.**
+
+------------
+
+El "Cifrado Cesár" es una ap de escritorio que nos permite cifrar y descifrar un mensaje con un número de desplazamiento a eleccion del usuario.
+
+## Preambulo:
+
+El cifrado césar es una de las técnicas más simples para cifrar un mensaje. Es un tipo de cifrado por sustitución, es decir que cada letra del texto original es reemplazada por otra que se encuentra un número fijo de posiciones (desplazamiento) más adelante en el mismo alfabeto.
+Por ejemplo, si usamos un desplazamiento (offset) de 3 posiciones- :
+- La letra A se cifra como D
+- La palabra CASA se cifra como FDVD
+- Alfabeto sin cifrar: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+- Alfabeto cifrado: D E F G H I J K L M N O P Q R S T U V W X Y Z A B C
+
+## Resumen del Proyecto.
+Esta app fue diseñada para aquellos trabajadores de oficina que quieran comunicarse con sus compañeros de trabajo y requieran usar palabras claves para que sus superiores no deban enterarse de los mismos.
+
+## Tecnologia usada.
+- HTML
+- CSS
+- Javascript.
+
+## Prototipo en Figma.
+![] (C:\Users\HP\Desktop\cipher\LIM018-cipher\Figma cipher.png)
+
+## Version final desde el navegador.
+![] (LIM018-cipher\Version final cipher.png)
+
+## Instrucciones de uso.
+## Para cifrar:
+- ingresar texto a cifrar.
+- elegir un offset de desplazamiento.
+- Selecciona el boton "cifrar".
+- recibe tu mensaje codificado
+- copia tu mensaje codificado.
+
+## Para descifrar:
+- pegar texto a descifrar en el input.
+- elegir un offset de desplazamiento (el mismo que se utilizo para codificar).
+- selecciona el boton "descifrar".
+- recibe tu mensaje decodificado.
+
+## Enlace para desplegar.
+[http://https://herly80.github.io/LIM018-cipher/src/](http://https://herly80.github.io/LIM018-cipher/src/)
+
 # Cifrado César
 
 ## Índice
