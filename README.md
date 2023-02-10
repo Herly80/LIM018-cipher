@@ -1,4 +1,4 @@
-#Cifrado Cesar.
+# Cifrado Cesar.
 
 
 El "Cifrado Cesár" es una ap de escritorio que nos permite cifrar y descifrar un mensaje con un número de desplazamiento a eleccion del usuario.
@@ -21,10 +21,10 @@ Esta app fue diseñada para aquellos trabajadores de oficina que quieran comunic
 - Javascript.
 
 ## Prototipo en Figma.
-<img src="https://C:\Users\HP\Desktop\cipher\LIM018-cipher\Figma cipher.png">
+[![Figma-cipher.png](https://i.postimg.cc/t4LFHjy4/Figma-cipher.png)](https://postimg.cc/FYVYjw7M)
 
 ## Version final desde el navegador.
-<img src="https://LIM018-cipher\Version final cipher.png">
+[![Version-final-cipher.png](https://i.postimg.cc/Hk46YzWM/Version-final-cipher.png)](https://postimg.cc/WdzGSMkp)
 
 ## Instrucciones de uso.
 ## Para cifrar:
